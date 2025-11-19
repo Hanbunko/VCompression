@@ -5,7 +5,7 @@ Verifiable Compression:
 4. Run  `vimz --function dctq --resolution HD --input samples/JSON/HD/transformation_dctq.json --circuit circuits/dctq_step_HD.r1cs --output proof_output.json --witnessgenerator circuits/dctq_step_HD_js/dctq_step_HD.wasm`
 
 
-Previos Readme for VIMz:
+Previous Readme for VIMz:
 # **VIMz**: Verifiable Image Manipulation via Folding-based zkSNARKs [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12516128.svg)](https://doi.org/10.5281/zenodo.12516128)
 
 <p align="center">
